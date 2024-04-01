@@ -1,0 +1,169 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 1440px;
+    margin: 0 auto;
+}
+header{
+    width: 1440px;
+    background-color: aliceblue;
+    padding: 50px;
+}
+li{
+    list-style: none;
+    
+
+}
+ul{
+    display: flex;
+    gap: 50px;
+}
+.divs{
+    display: flex;
+    justify-content: space-between;
+
+}
+main{
+    background-color: aliceblue;
+    width: 1440px;
+    height: 800px;
+    padding: 50px;
+}
+.div1 h2{
+    color: red;
+}
+h1{
+    width: 650px;
+height: 227px;
+top: 392px;
+left: 100px;
+gap: 0px;
+opacity: 0px;
+font-family: Montserrat;
+font-size: 55px;
+font-weight: 700;
+line-height: 67.05px;
+text-align: left;
+
+}
+.divs2{
+    display: flex;
+    
+}
+.text{
+    width: 594px;
+height: 73px;
+top: 1277px;
+left: 711px;
+gap: 0px;
+opacity: 0px;
+font-family: Montserrat;
+font-size: 60px;
+font-weight: 700;
+line-height: 73.14px;
+text-align: left;
+
+}
+.divs3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.text2{
+    width: 491px;
+height: 122px;
+top: 1350px;
+left: 711px;
+gap: 0px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+font-family: Montserrat;
+font-size: 100px;
+font-weight: 700;
+line-height: 121.9px;
+text-align: left;
+color: white;
+}
+.section-1{
+    padding: 50px;
+    width: 1440px;
+    height: 800px;
+    background-color: aliceblue;
+}
+.section{
+    width: 1440px;
+    height: 800px;
+    background-color: aliceblue;
+    margin: 0 auto;
+}
+button{
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    color: aliceblue;
+}
+.teext{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.section-2{
+    padding: 50px;
+    width: 1440px;
+height: 1026.29px;
+top: 2242px;
+left: 86px;
+gap: 0px;
+opacity: 0px;
+background-color: aliceblue;
+}
+.section-3{
+    width: 1440px;
+height: 772px;
+top: 3434px;
+left: 95px;
+gap: 0px;
+opacity: 0px;
+background-color: aliceblue;
+padding: 50px;
+}
+.text3{
+    margin-top: -50px;
+    margin-left: 120px;
+}
+.text4{
+    margin-left: 120px;
+}
+.imagess{
+    display: flex;
+    justify-content: space-between;
+}
+.divs4{
+    display: flex;
+
+}
+.gap{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    height: 400px;
+}
+.section-4{
+    width: 1440px;
+    height: 900px;
+    background-color: aliceblue;
+    padding: 50px;
+}
+.footer{
+    width: 1440px;
+    height: 400px;
+    background-color: aliceblue;
+    margin-top: 3449px;
+    padding: 50px;
+}
+.divs5{
+    display: flex;
+    justify-content: space-between;
+}
